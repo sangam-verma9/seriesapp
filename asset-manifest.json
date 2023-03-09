@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seriesapp/static/css/main.27347ce1.css",
+    "main.js": "/seriesapp/static/js/main.b6ba65ae.js",
+    "index.html": "/seriesapp/index.html",
+    "main.27347ce1.css.map": "/seriesapp/static/css/main.27347ce1.css.map",
+    "main.b6ba65ae.js.map": "/seriesapp/static/js/main.b6ba65ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27347ce1.css",
+    "static/js/main.b6ba65ae.js"
+  ]
+}
