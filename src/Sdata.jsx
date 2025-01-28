@@ -77,8 +77,49 @@ let Sdata=[
         catagoryname:"A original Netfix series",
         name:"All Of Us Dead",
         link:'https://www.netflix.com/in/title/81237994'
+    },
+    {
+        id:15,
+        image:"./beef_poster.jpg",
+        catagoryname:"A original Netfix series",
+        name:"BEEF",
+        link:'https://www.netflix.com/in/title/81447461'
+    },
+    {
+        id:16,
+        image:"./white_lotus.jpeg",
+        catagoryname:"A original Netfix series",
+        name:"White Lotus",
+        link:'https://www.jiocinema.com/tv-shows/the-white-lotus/3739481'
+    },
+    {
+        id:17,
+        image:"./hacks.jpeg",
+        catagoryname:"A original Netfix series",
+        name:"Hacks",
+        link:'https://www.netflix.com/in/title/81602817?source=35'
+    },
+    {
+        id:18,
+        image:"./theboys.jpeg",
+        catagoryname:"A original Netfix series",
+        name:"The Boys",
+        link:'https://www.primevideo.com/dp/amzn1.dv.gti.e88762ee-811c-44ae-8dd1-a795c7c1660c?autoplay=0&ref_=atv_cf_strg_wb'
+    },
+    {
+        id:19,
+        image:"./ted_lasso.jpeg",
+        catagoryname:"A original Netfix series",
+        name:"Ted Lasso",
+        link:'https://www.primevideo.com/detail/Ted-Lasso/0GRVXC3UYWEV9PRBX1S4167AJR'
+    },
+    {
+        id:20,
+        image:"./only_murders_in_the_builing.jpeg",
+        catagoryname:"A original Netfix series",
+        name:"Only Murders in the builing",
+        link:'https://www.hotstar.com/in/shows/only-murders-in-the-building/1260067362?utm_source=gwa'
     }
-
 
 ]
 export default Sdata;
